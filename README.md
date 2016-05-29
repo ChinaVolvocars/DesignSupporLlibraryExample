@@ -15,16 +15,18 @@
 ## 使用方法
 
 导入
+```xml
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:23.4.0'
     compile 'com.android.support:design:23.4.0'
 }
+```
 
 
 
 ### 效果图  
-![Image of ](https://raw.githubusercontent.com/why168/BaseView/master/WX.png)
+
 
 
 
